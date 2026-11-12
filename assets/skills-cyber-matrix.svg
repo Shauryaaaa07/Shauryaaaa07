@@ -34,70 +34,70 @@
   <!-- Terminal Header -->
   <g transform="translate(25, 28)">
     <rect x="0" y="-12" width="8" height="16" rx="2" fill="#58a6ff" />
-    <text x="18" y="0" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">CYBERMETRIC SKILL RADAR // RUNTIME PROFICIENCY</text>
+    <text x="18" y="0" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">TACTICAL SKILL MATRIX // ARCHITECTURE &amp; DATA PROFICIENCY</text>
     <text x="800" y="0" fill="#58a6ff" font-size="11" font-family="'Fira Code', monospace" text-anchor="end">SYS://BENCHMARK_OK</text>
   </g>
   <line x1="20" y1="42" x2="830" y2="42" stroke="#21262d" stroke-width="1" />
 
   <!-- Left Side: Interactive Skills Progress Bars -->
   
-    <!-- Skill: Computer Vision & CNNs -->
+    <!-- Skill: Software Eng & Core Languages -->
     <g transform="translate(40, 75)">
-      <text x="0" y="0" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">Computer Vision & CNNs</text>
-      <text x="490" y="0" fill="#58a6ff" font-size="12" font-weight="bold" font-family="'Fira Code', monospace" text-anchor="end">94%</text>
-      <text x="0" y="15" fill="#8b949e" font-size="10" font-family="'Fira Code', monospace">OpenCV, Custom 4-Layer CNN, Real-Time Inference</text>
+      <text x="0" y="0" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">Software Eng & Core Languages</text>
+      <text x="490" y="0" fill="#58a6ff" font-size="12" font-weight="bold" font-family="'Fira Code', monospace" text-anchor="end">95%</text>
+      <text x="0" y="15" fill="#8b949e" font-size="10" font-family="'Fira Code', monospace">Python, Java, C, JavaScript, OOP, Clean Code</text>
       
       <!-- Track Background -->
       <rect x="0" y="24" width="490" height="8" rx="4" fill="#21262d" />
       
       <!-- Animated Active Bar -->
-      <rect x="0" y="24" width="432" height="8" rx="4" fill="#58a6ff">
-        <animate attributeName="width" from="0" to="432" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <rect x="0" y="24" width="436" height="8" rx="4" fill="#58a6ff">
+        <animate attributeName="width" from="0" to="436" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
       </rect>
     </g>
     
-    <!-- Skill: Machine Learning & Data -->
+    <!-- Skill: AI, Computer Vision & Prompt Eng -->
     <g transform="translate(40, 133)">
-      <text x="0" y="0" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">Machine Learning & Data</text>
-      <text x="490" y="0" fill="#bc8cff" font-size="12" font-weight="bold" font-family="'Fira Code', monospace" text-anchor="end">90%</text>
-      <text x="0" y="15" fill="#8b949e" font-size="10" font-family="'Fira Code', monospace">Scikit-Learn, Pandas, NumPy, Classification</text>
+      <text x="0" y="0" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">AI, Computer Vision & Prompt Eng</text>
+      <text x="490" y="0" fill="#bc8cff" font-size="12" font-weight="bold" font-family="'Fira Code', monospace" text-anchor="end">92%</text>
+      <text x="0" y="15" fill="#8b949e" font-size="10" font-family="'Fira Code', monospace">OpenCV, CNNs, Real-Time Vision, Advanced Prompting</text>
       
       <!-- Track Background -->
       <rect x="0" y="24" width="490" height="8" rx="4" fill="#21262d" />
       
       <!-- Animated Active Bar -->
-      <rect x="0" y="24" width="413" height="8" rx="4" fill="#bc8cff">
-        <animate attributeName="width" from="0" to="413" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
-      </rect>
-    </g>
-    
-    <!-- Skill: Core Engineering & DSA -->
-    <g transform="translate(40, 191)">
-      <text x="0" y="0" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">Core Engineering & DSA</text>
-      <text x="490" y="0" fill="#39c5bb" font-size="12" font-weight="bold" font-family="'Fira Code', monospace" text-anchor="end">92%</text>
-      <text x="0" y="15" fill="#8b949e" font-size="10" font-family="'Fira Code', monospace">Python, C++, Problem Solving, Optimization</text>
-      
-      <!-- Track Background -->
-      <rect x="0" y="24" width="490" height="8" rx="4" fill="#21262d" />
-      
-      <!-- Animated Active Bar -->
-      <rect x="0" y="24" width="423" height="8" rx="4" fill="#39c5bb">
+      <rect x="0" y="24" width="423" height="8" rx="4" fill="#bc8cff">
         <animate attributeName="width" from="0" to="423" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
       </rect>
     </g>
     
-    <!-- Skill: Full-Stack & APIs -->
-    <g transform="translate(40, 249)">
-      <text x="0" y="0" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">Full-Stack & APIs</text>
-      <text x="490" y="0" fill="#f0883e" font-size="12" font-weight="bold" font-family="'Fira Code', monospace" text-anchor="end">86%</text>
-      <text x="0" y="15" fill="#8b949e" font-size="10" font-family="'Fira Code', monospace">Flask, JavaScript, RESTful APIs, SQLite/MySQL</text>
+    <!-- Skill: Data Analytics & Machine Learning -->
+    <g transform="translate(40, 191)">
+      <text x="0" y="0" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">Data Analytics & Machine Learning</text>
+      <text x="490" y="0" fill="#39c5bb" font-size="12" font-weight="bold" font-family="'Fira Code', monospace" text-anchor="end">90%</text>
+      <text x="0" y="15" fill="#8b949e" font-size="10" font-family="'Fira Code', monospace">Pandas, NumPy, Scikit-Learn, Predictive Modeling, SQL</text>
       
       <!-- Track Background -->
       <rect x="0" y="24" width="490" height="8" rx="4" fill="#21262d" />
       
       <!-- Animated Active Bar -->
-      <rect x="0" y="24" width="395" height="8" rx="4" fill="#f0883e">
-        <animate attributeName="width" from="0" to="395" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      <rect x="0" y="24" width="413" height="8" rx="4" fill="#39c5bb">
+        <animate attributeName="width" from="0" to="413" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </g>
+    
+    <!-- Skill: Web Development & Frontend UI -->
+    <g transform="translate(40, 249)">
+      <text x="0" y="0" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="'SF Pro Display', 'Segoe UI', sans-serif">Web Development & Frontend UI</text>
+      <text x="490" y="0" fill="#f0883e" font-size="12" font-weight="bold" font-family="'Fira Code', monospace" text-anchor="end">88%</text>
+      <text x="0" y="15" fill="#8b949e" font-size="10" font-family="'Fira Code', monospace">JavaScript, HTML5, CSS3, Flask APIs, Interactive Systems</text>
+      
+      <!-- Track Background -->
+      <rect x="0" y="24" width="490" height="8" rx="4" fill="#21262d" />
+      
+      <!-- Animated Active Bar -->
+      <rect x="0" y="24" width="404" height="8" rx="4" fill="#f0883e">
+        <animate attributeName="width" from="0" to="404" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
       </rect>
     </g>
     
@@ -133,6 +133,6 @@
 
     <!-- Label Below Radar -->
     <text x="685" y="285" fill="#8b949e" font-size="10" font-family="'Fira Code', monospace" text-anchor="middle">ACTIVE RADAR SWEEP</text>
-    <text x="685" y="300" fill="#58a6ff" font-size="9" font-family="'Fira Code', monospace" text-anchor="middle">TARGET: HIGH IMPACT IMPACT</text>
+    <text x="685" y="300" fill="#58a6ff" font-size="9" font-family="'Fira Code', monospace" text-anchor="middle">SYSTEM: PRODUCTION READY</text>
   </g>
 </svg>

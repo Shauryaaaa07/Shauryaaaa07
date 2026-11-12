@@ -13,8 +13,8 @@
       <img src="https://komarev.com/ghpvc/?username=Shauryaaaa07&style=for-the-badge&color=58a6ff&label=SYSTEM+ACCESS+COUNT" alt="Visitor Counter" />
     </a>
     <img src="https://img.shields.io/badge/CLEARANCE-SOFTWARE%20ENGINEER-238636?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Clearance" />
-    <img src="https://img.shields.io/badge/SYSTEM-OPEN%20TO%20WORK-1f6feb?style=for-the-badge&logo=target&logoColor=white" alt="System Open" />
-    <img src="https://img.shields.io/badge/RADAR-ACTIVE-bc8cff?style=for-the-badge&logo=radar&logoColor=white" alt="Radar Active" />
+    <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DATA%20ANALYTICS-1f6feb?style=for-the-badge&logo=python&logoColor=white" alt="Data Analytics" />
+    <img src="https://img.shields.io/badge/ROLE-PROMPT%20ARCHITECT-bc8cff?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Eng" />
   </p>
 
   <p align="center">
@@ -38,18 +38,19 @@
 ```json
 {
   "name": "Shaurya Pratap Singh",
-  "designation": "Aspiring Software Engineer & Computer Vision Architect",
+  "designation": "Software Engineer • AI/CV Specialist • Data Analyst",
   "degree": "B.Tech in Computer Science and Engineering",
   "location": "Uttar Pradesh, India",
-  "classification": {
-    "primary": "High-Performance Software Engineering",
-    "secondary": "Computer Vision & Deep Learning Pipelines",
-    "tertiary": "Full-Stack Web Architectures & APIs"
+  "competencies": {
+    "software_engineering": ["OOP", "Clean Architecture", "Data Structures & Algorithms"],
+    "programming_languages": ["Python", "Java", "C", "JavaScript", "SQL", "HTML5", "CSS3"],
+    "ai_and_vision": ["OpenCV", "Convolutional Neural Networks (CNN)", "AI Prompt Engineering"],
+    "data_analytics": ["Pandas", "NumPy", "Scikit-Learn", "Predictive Modeling", "Exploratory Data Analysis"]
   },
   "hackathon_record": [
-    "Smart India Hackathon (SIH) - Initiative: GeoNexus-SIH26227"
+    "Smart India Hackathon (SIH 2024) - GeoNexus AI Initiative"
   ],
-  "mission": "Engineering robust, human-centric intelligent software and production-ready ML infrastructure."
+  "mission": "Engineering robust, high-performance software, intelligent vision systems, and data-driven architectures."
 }
 ```
 
@@ -68,31 +69,37 @@
 #### 💻 Core Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-#### 🧠 Computer Vision & Intelligent Systems
+#### 🧠 AI, Computer Vision & Prompt Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/CNN_Architectures-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNN" />
+  <img src="https://img.shields.io/badge/AI_Prompt_Engineering-Advanced%20LLMs-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 </p>
 
-#### 🌐 Frameworks & Full-Stack
+#### 📊 Data Analytics & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Analytics-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scientific_Computing-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Analysis_Env-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+#### 🌐 Frameworks & Full-Stack Web
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-#### ⚙️ Developer Toolchain & Diagnostics
+#### ⚙️ Developer Tools & Engineering Pipeline
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -131,12 +138,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Accident Prediction Model</h3>
+      <h3 align="center">🧠 Accident Prediction & Analytics Model</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Pipeline-Binary%20Classification-blueviolet?style=flat-square" />
         <img src="https://img.shields.io/badge/Algorithm-Logistic%20Regression-red?style=flat-square" />
       </p>
-      <p>High-precision predictive pipeline evaluating multivariate demographic and safety telemetry to determine accident severity patterns and survival probabilities.</p>
+      <p>High-precision predictive data analytics pipeline evaluating demographic and safety variables to determine accident severity patterns and survival probabilities.</p>
       <p align="center">
         <a href="https://github.com/Shauryaaaa07/Accident_predection_model"><b>⚡ Inspect System Code &rarr;</b></a>
       </p>
@@ -188,5 +195,5 @@
 </p>
 
 <div align="center">
-  <code>SYSTEM STATUS: STANDBY // LISTENING FOR OPPORTUNITIES ON PORT 443</code>
+  <code>SYSTEM STATUS: STANDBY // SOFTWARE ENGINEER &amp; DATA ANALYST READY FOR COLLABORATION</code>
 </div>
