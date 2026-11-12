@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 145" width="100%" height="145">
+  <defs>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="848" height="143" rx="10" fill="url(#card-grad)" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Column 1: Core Metrics -->
+  <g transform="translate(35, 30)">
+    <circle cx="6" cy="6" r="5" fill="#2ea043" />
+    <text x="22" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#8b949e">ENGINEERING OVERVIEW</text>
+    
+    <text x="0" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="bold" fill="#f0f6fc">7+</text>
+    <text x="50" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#8b949e">Public Projects</text>
+
+    <text x="0" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="bold" fill="#2ea043">100%</text>
+    <text x="80" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#8b949e">Open Source &amp; Verified</text>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="285" y1="20" x2="285" y2="125" stroke="#21262d" stroke-width="1" />
+
+  <!-- Column 2: Tech Core -->
+  <g transform="translate(320, 30)">
+    <circle cx="6" cy="6" r="5" fill="#3fb950" />
+    <text x="22" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#8b949e">PRIMARY ECOSYSTEM</text>
+    
+    <text x="0" y="40" font-family="'Fira Code', monospace" font-size="13" fill="#f0f6fc">Lang: Python • Java • C • JS</text>
+    <text x="0" y="65" font-family="'Fira Code', monospace" font-size="13" fill="#3fb950">AI: OpenCV • CNN • Prompt Eng</text>
+    <text x="0" y="90" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">Data: Pandas • NumPy • SQL</text>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="595" y1="20" x2="595" y2="125" stroke="#21262d" stroke-width="1" />
+
+  <!-- Column 3: Credentials -->
+  <g transform="translate(630, 30)">
+    <circle cx="6" cy="6" r="5" fill="#238636" />
+    <text x="22" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#8b949e">ACHIEVEMENT</text>
+
+    <text x="0" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="bold" fill="#f0f6fc">Smart India Hackathon</text>
+    <text x="0" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">GeoNexus AI Initiative ('24)</text>
+
+    <text x="0" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#2ea043">● Status: Open for Roles</text>
+  </g>
+</svg>
