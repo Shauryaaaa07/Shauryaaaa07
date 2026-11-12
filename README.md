@@ -1,5 +1,12 @@
 <div align="center">
 
+  <!-- Profile Avatar with Theme-Matched Border Ring -->
+  <a href="https://github.com/Shauryaaaa07">
+    <img src="https://raw.githubusercontent.com/Shauryaaaa07/Shauryaaaa07/main/assets/profile-avatar.png" width="170" alt="Shaurya Pratap Singh" />
+  </a>
+
+  <br /><br />
+
   <!-- Typing SVG Banner with matched Cyan/Blue Gradient colors -->
   <a href="https://github.com/Shauryaaaa07">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B+I'm+Shaurya+Pratap+Singh;Software+Engineer+%26+ML+Enthusiast;Building+AI%2C+Vision+%26+Web+Applications;Passionate+About+Scalable+Code" alt="Typing Banner" />
