@@ -36,7 +36,7 @@ I am a **Software Engineer** and **Data Analyst** currently pursuing my **B.Tech
 - 🧠 **AI & Computer Vision:** Experienced in building intelligent vision systems using **OpenCV** and custom **CNN architectures** for real-time detection.
 - 🤖 **AI Prompt Developer:** Skilled in prompt engineering, context structuring, and leveraging modern LLMs for practical developer workflows.
 - 📊 **Data Analytics:** Proficient in exploratory data analysis, pattern recognition, and predictive modeling with **Pandas**, **NumPy**, **Scikit-Learn**, and **SQL**.
-- 🏆 **Smart India Hackathon (SIH 2024):** Developed **GeoNexus-SIH26227**, a geospatial predictive analytics engine.
+- 🛰️ **Geospatial & Predictive Systems:** Developed **GeoNexus**, an automated spatial analytics engine combining machine learning with data visualization.
 
 ---
 
@@ -95,8 +95,8 @@ I am a **Software Engineer** and **Data Analyst** currently pursuing my **B.Tech
       <p><b>Stack:</b> <code>Python</code> &bull; <code>OpenCV</code> &bull; <code>CNN</code> &bull; <code>Flask</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛰️ <a href="https://github.com/Shauryaaaa07/GeoNexus-SIH26227">GeoNexus (SIH '24)</a></h3>
-      <p>Smart India Hackathon initiative architected for predictive data modeling and geospatial analysis, translating large spatial datasets into actionable intelligence.</p>
+      <h3>🛰️ <a href="https://github.com/Shauryaaaa07/GeoNexus-SIH26227">GeoNexus Spatial Analytics</a></h3>
+      <p>Intelligent geospatial processing engine combining predictive data models with automated analytics to translate complex spatial datasets into actionable intelligence.</p>
       <p><b>Stack:</b> <code>Python</code> &bull; <code>Data Analytics</code> &bull; <code>Machine Learning</code></p>
     </td>
   </tr>
@@ -141,7 +141,7 @@ I am a **Software Engineer** and **Data Analyst** currently pursuing my **B.Tech
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:shaurya@example.com" target="_blank">
+  <a href="mailto:shauryaawasthi7007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-2ea043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
