@@ -186,8 +186,8 @@
       <g transform="translate(265, 0)">
         <rect x="0" y="0" width="250" height="42" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1" />
         <circle cx="18" cy="21" r="6" fill="#bc8cff" />
-        <text x="34" y="16" fill="#8b949e" font-size="9" class="mono-text">ACADEMIC &amp; HACKATHON</text>
-        <text x="34" y="32" fill="#f0f6fc" font-size="11" font-weight="bold" class="hud-text">B.Tech CSE • Smart India Hackathon</text>
+        <text x="34" y="16" fill="#8b949e" font-size="9" class="mono-text">ACADEMIC &amp; CREDENTIALS</text>
+        <text x="34" y="32" fill="#f0f6fc" font-size="11" font-weight="bold" class="hud-text">B.Tech CSE • Core Engineering & AI</text>
       </g>
     </g>
 
