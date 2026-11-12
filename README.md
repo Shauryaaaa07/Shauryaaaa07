@@ -141,7 +141,7 @@ I am a **Software Engineer** and **Data Analyst** currently pursuing my **B.Tech
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:shauryaawasthi7007@gmail.com" target="_blank">
+  <a href="mailto:shauryapratapsingh723@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-2ea043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
